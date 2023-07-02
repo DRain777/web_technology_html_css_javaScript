@@ -1,6 +1,6 @@
 # накомство с веб-технологиями (семинары)
 
-![Знакомство с веб-технологиями (семинары)]()
+![Знакомство с веб-технологиями (семинары)](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/mid_jorni.jpg)
 
 - 1. Определите, на каком протоколе работает сайт youtube.com.
      Сделайте скриншот с названием 1_protocol.jpg, по которому станет понятно, как вы определили протокол сайта.
@@ -16,25 +16,26 @@
 
 
 *                  1.  Сайт youtube.com.
-![Знакомство с веб-технологиями]( )
+![Знакомство с веб-технологиями]( https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/analiz.png)
 
 * На скриншоте видим протокол HTTPS и наличия порта 443,сайт защищен!
 
 
 
 *                  2. Анализ  https://ru.wikipedia.org 
-   ![Знакомство с веб-технологиями]()
+   ![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/analiz.png)
 
 
 
 
 *                   3. Игра найди 10 отличий 
-![Знакомство с веб-технологиями]()
+![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/3_before.jp.png)
  
-![Знакомство с веб-технологиями]()
+![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/3_after.jpg.png)
 
 
 *                    4.Прототип низкой детализации
+ ![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/prototip.jpg)
 
 
 

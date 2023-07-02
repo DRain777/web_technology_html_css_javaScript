@@ -16,7 +16,7 @@
 
 
 *                  1.  Сайт youtube.com.
-![Знакомство с веб-технологиями]( https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/analiz.png)
+![Знакомство с веб-технологиями]( https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/https_443port.png)
 
 * На скриншоте видим протокол HTTPS и наличия порта 443,сайт защищен!
 

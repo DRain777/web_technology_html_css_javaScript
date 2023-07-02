@@ -22,19 +22,19 @@
 
 
 
-*   2. Анализ  https://ru.wikipedia.org 
+*   2 Анализ  https://ru.wikipedia.org 
    ![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/analiz.png)
 
 
 
 
-*  3. Игра найди 10 отличий 
-![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/3_before.jp.png)
+*  3 Игра найди 10 отличий 
+![Знакомство  с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/3_before.jp.png)
  
 ![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/3_after.jpg.png)
 
 
-*  4.Прототип низкой детализации
+*  4 Прототип низкой детализации
  ![Знакомство с веб-технологиями](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/prototip.jpg)
 
 

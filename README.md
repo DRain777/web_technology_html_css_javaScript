@@ -1,4 +1,4 @@
-# Знакомство с веб-технологиями (семинары)
+# Знакомство с веб-технологиями (семинар)
 
 ![Знакомство с веб-технологиями (семинары)](https://github.com/DRain777/web_technology_html_ssc_javaScript/blob/algoritm/source/mid_jorni.jpg)
 

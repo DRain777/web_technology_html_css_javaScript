@@ -4,15 +4,15 @@ for (let i = 0; i < paginationButtonEls.length; i++) {
     const button = paginationButtonEls[i];
     button.addEventListener('click', async function () {
         // alert("hello");
-        const page = button.getAttribute("data-page");     // дай значения отрибута 
         // из кнопки дай значения data-page
+        const page = button.getAttribute("data-page");     // дай значения отрибута 
         const users =  await fetchUsers(page); 
         //console.log(users)
         renderUsers(users); 
-       
-    
-
-
+        
+        
+        
+        
     });
     
 }

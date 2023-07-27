@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+}
+/* Удаляет подчеркивания на ссылках */
+
+.ick_link{
+    color:cornflowerblue;
+    font-size: 24px;
+    line-height: 20px;
+}
+
+.title{
+    color:222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.text{
+    font-style: normal;
+    font-weight:300;
+    font-size: 18px;
+    line-height: 30px;
+    color:#7d7987;
+}
+
+.subtitle{
+    color: blue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+
+
+

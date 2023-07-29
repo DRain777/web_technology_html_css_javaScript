@@ -1,0 +1,31 @@
+.head_log{
+    width: 150px;
+    height: 50px;
+     margin-right: 600px;
+}
+
+/* .head_log {
+    width: 150px;
+    height: 50px;
+    display: grid;
+    place-items: center;
+}
+  
+.head_log {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.top_link {
+    font-size: 20x;
+    margin-right: 25px;
+    
+}
+.title{
+    width: 522px;
+    height: 222px;
+    font-weight: bold;
+
+}

@@ -10,6 +10,13 @@ a{
 .top{
     padding-top: 50px;
     padding-bottom:30px ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
   
 }
 
@@ -42,15 +49,13 @@ a{
     font-size: 17px;
     width: 350px;
     padding-top: 17px;
+    
 }
 .top_bittons{
     font-size: 30px;
 }
-.top_img{
-   font-size: 100px;
-   
-    
-}
+
+
 .top_logo{
     padding-top: 40px;
     color: #e70619;
@@ -60,6 +65,10 @@ a{
 body{
     background:rgb(162, 198, 253);
    
+}
+.centr{
+    padding-left: calc(50% - 580px);
+padding-right: calc(50% - 580px);
 }
 
 

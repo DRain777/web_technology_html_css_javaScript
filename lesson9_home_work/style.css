@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.offer {
+
+    display: grid;
+    grid-template-columns: repeat(3, 365px);
+    gap: 30px;
+
+
+
+}
+
+
+.section {
+    padding: 40px 30px 25px 30px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: start;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.title {
+    padding-top: 25px;
+}
+
+.text {
+    padding-top: 17px;
+    padding-bottom: 25px;
+}
+
+
+
+.shadow_section {
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.06);
+}
+
+/* ////////////////// */
+
+
+.header {
+    margin-top: 50px;
+    padding-left: 320px;
+
+
+
+
+}
+
+.title_header {
+
+    font-size: 45px;
+    padding-top: 92px;
+    color: #000000;
+    padding-left: 80px;
+    line-height: 150%;
+
+
+}
+
+
+.text_header {
+
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #666666;
+    width: 682px;
+
+}
+
+.top_service {
+    margin-top: 31px;
+    display: grid;
+    grid-template-columns: repeat(3, 380px);
+
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+
+
+
+
+
+}
+
+
+
+.service {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 17px; */
+    display: grid;
+    justify-items: center;
+    padding-bottom: 50px;
+    background: #FFFFFF;
+
+
+}
+
+.img_service {
+    width: 396px;
+    height: 297px;
+    flex-shrink: 0;
+}
+
+.title_service {
+
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.service_text {
+
+    margin-bottom: 39px;
+    margin-top: 22px;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: center;
+    color: #AAAAAA;
+    margin-left: 30px;
+    margin-right: 30px
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+
+
+    width: 128px;
+    height: 42px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 68px;
+    border: none;
+    font-size: 14px;
+    line-height: 44px;
+    color: #FFFFF;
+}

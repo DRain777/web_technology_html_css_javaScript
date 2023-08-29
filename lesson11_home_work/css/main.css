@@ -1,0 +1,264 @@
+@import"./reset.css";
+/* @import url('https://fonts.gogleapis.com/css2?family=Poppins:wght@400;500;600;700&display=') */
+
+
+.top_header {
+    max-width: 1600px;
+    height: 75px;
+
+    background-color: #222;
+    display: flex;
+    justify-content: space-betwe;
+
+}
+
+.group {
+
+    width: 44px;
+    height: 38px;
+    margin: 18px 20px 19px 231px;
+    display: flex;
+
+
+}
+
+.forma {
+    width: 26px;
+    height: 26.762px;
+    flex-shrink: 0;
+    margin: 28px 258px 20px 31px;
+
+
+
+
+}
+
+.button {
+    color: #e8e8e8;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+
+    width: 158.996px;
+    height: 29px;
+    flex-shrink: 0;
+    margin: 26px 270px 20px;
+    margin-right: 240px;
+}
+
+.header_container {
+    max-width: 1600px;
+    height: 764;
+    background-color: #F1E4E6;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+
+
+}
+
+.img_header {}
+
+
+.img_strip {
+
+    width: 12px;
+    height: 92px;
+    top: 364.90087890625px;
+    left: 864px;
+    margin-left: 30px;
+}
+
+
+.conteiner_brend {
+    width: 377px;
+    height: 93px;
+    margin-left: 16px;
+
+
+}
+
+.header_title {
+
+
+    color: #222;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+}
+
+.header_text {
+
+    color: #222;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 250px;
+
+}
+
+.pink_word {
+
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    width: 150px;
+    margin-left: 245px;
+    margin-top: -37px;
+}
+
+
+.container_wmk {
+    max-width: 1600px;
+    height: 700px;
+
+
+    /* //////// */
+
+    /* display: -webkit-box;
+    display: -ms-flexbox; */
+    display: flex;
+    /* -webkit-box-pack: center; */
+    /* -ms-flex-pack: center; */
+    justify-content: center;
+    /* -webkit-box-align: center; */
+    /* -ms-flex-align: center; */
+    align-items: center;
+    /* -ms-flex-wrap: wrap; */
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.women {
+    width: 360px;
+    height: 260px;
+    color: aqua;
+    gap: 30px;
+
+
+}
+
+.men {
+
+    width: 360px;
+    height: 260px;
+    color: aqua;
+    gap: 30px;
+    border: 1px;
+}
+
+
+.kids {
+    width: 360px;
+    height: 260px;
+    color: aqua;
+    gap: 30px;
+}
+
+.accesories {
+    width: 1140px;
+    height: 180px;
+    color: aqua;
+    gap: 30px;
+    margin-top: -200px;
+
+
+}
+
+
+
+
+
+
+.products_text {
+
+    margin-top: 6px;
+
+    text-align: center;
+}
+
+.center {
+    padding-left: calc(50% - 570px);
+    padding-right: calc(50% - 570px);
+}
+
+.products_title {
+    color: #222;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+
+.product_text {
+
+    color: #9F9F9F;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+
+
+.products_container {
+    max-width: 1600px;
+    height: 2525px;
+    background: #FFF;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+
+
+
+
+}
+
+.product_content {
+
+    
+}
+
+
+/* position: relative;
+    width: 360px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+     display: flex;
+    /* -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: lef; */
+
+}

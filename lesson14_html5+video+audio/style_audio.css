@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box_audio{
+
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.box_video{
+    position: relative;
+
+    height: 100vh;
+    width: 100vw;
+}
+.heading{
+    position: absolute;
+    top: 45%;
+    color: brown;
+    width: 100%;
+    text-align: center;
+}
+
+.video{
+
+    height: 100vh;
+    width: 100vw;
+}

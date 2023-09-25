@@ -1,0 +1,187 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.conteiner {
+
+    width: 100vw;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+
+
+}
+
+.box_header {
+
+    width: 110px;
+    font-size: 20px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 25%;
+    text-align: center;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.box_header:hover {
+    /* при наведении на обьект поменяется цвет */
+
+    color: blue;
+}
+
+
+
+.box_header:active {
+    /* при нажатии поменяется цвет и продавится кнопка*/
+    color: brown;
+    position: relative;
+    top: 1.5px;
+
+
+}
+
+.container_vk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.vk_link {
+
+
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.vk_link:hover {
+    /* при наведении на обьект поменяется цвет */
+
+    color: rgb(84, 238, 13);
+}
+
+
+
+.box_header:hover::after {
+
+    content: '>>>';
+}
+
+.button {
+
+    display: block;
+    width: 120px;
+    height: 40px;
+    border: 1px solid purple;
+    text-align: center;
+    line-height: 40px;
+    color: purple;
+    margin-top: 40px;
+    margin-left: 50%;
+    transition: all 0.3s;
+}
+
+.button:hover {
+    color: rgb(224, 10, 82);
+    background-color: purple;
+    /* transition: background-color 1s; */
+
+
+}
+
+.drive {
+    margin-top: 50px;
+
+}
+
+.car {
+    border-radius: 15%;
+
+
+    width: 150px;
+    height: 50px;
+    border: 1px solid #000;
+    transition: margin 5s;
+}
+
+.drive:hover .car {
+
+    margin-left: 90%;
+
+}
+
+.car-1 {
+    transition-timing-function: ease;
+}
+
+.car-2 {
+    transition-timing-function: ease-in;
+}
+
+.car-3 {
+    transition-timing-function: ease-in-out;
+}
+
+.car-4 {
+    transition-timing-function: ease-out;
+}
+
+.car-5 {
+    transition-timing-function: linear;
+}
+
+
+
+.bord {
+
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bord_item {
+    width: 200px;
+    height: 150px;
+    border: 1px solid #000;
+    transition: transform 1s;
+
+}
+
+
+
+.bord_item_1:hover {
+
+    transform: translate(200px, -30px) scale(1.3);
+}
+
+.bord_item_2:hover {
+
+    transform: translateY(-30px) scale(1.3);
+}
+
+
+
+.bord_item_3:hover {
+
+    transform: translate(-200px,-30px) scale(1.3);
+}

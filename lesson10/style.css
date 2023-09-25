@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+
+    border: 1px solid #000;
+}
+
+
+.content {
+   
+    display: flex;
+    justify-content: center;
+    /* background-color: rebeccapurple; */
+    flex-wrap: wrap;
+
+}
+
+.item {
+
+    width: 33.3333vw;
+    height: 30vh;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+}
+
+
+@media (max-width:375px   ) {
+    /* стили для mobilku*/
+    h1{
+        font-size: 18px;
+    }
+    .item{
+        background-color: forestgreen;
+    }
+
+}
+
+@media (max-width:767px){
+       /* style  tablet */
+
+       height: 1px;{
+        font-size: 24px;
+       }
+
+       .item{
+        width: 100vw;
+        height: 200px;
+        background-color: darkmagenta;
+       }
+
+
+}

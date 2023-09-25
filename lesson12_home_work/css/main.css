@@ -2,6 +2,56 @@
 /* @import url('https://fonts.gogleapis.com/css2?family=Poppins:wght@400;500;600;700&display=') */
 
 
+/* Add a media query for tablet-sized screens (768px to 1024px) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Your responsive styles for tablet screens go here */
+
+    /* For example, you can adjust the header_top and header styles */
+    .header_top {
+        width: 100%;
+        /* Make it full-width on tablets */
+    }
+
+    .header {
+        width: 100%;
+        /* Make it full-width on tablets */
+    }
+
+    /* You can also adjust other styles as needed */
+    .img_men {
+        width: 50%;
+        /* Reduce the size of the men image on tablets */
+    }
+
+    .img_header {
+        width: 40%;
+        /* Reduce the size of the header image on tablets */
+    }
+
+
+    .itemsitems_featured {
+
+        color: #eb0505;
+        font-family: Lato;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
 .header_top {
 
     width: 768px;
@@ -181,7 +231,8 @@
     height: 60px;
     display: flex;
     justify-content: center;
-  
+   
+
 
 }
 
@@ -200,6 +251,56 @@
     width: 212px;
     height: 48px;
     flex-shrink: 0;
+
+
+}
+
+
+
+/* //////////////////////////// */
+
+
+/* Add a media query for tablet-sized screens (768px to 1024px) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Your responsive styles for tablet screens go here */
+
+    /* For example, you can adjust the header_top and header styles */
+    .header_top {
+        width: 100%;
+        /* Make it full-width on tablets */
+    }
+
+    .header {
+        width: 100%;
+        /* Make it full-width on tablets */
+    }
+
+    /* You can also adjust other styles as needed */
+    .img_men {
+        width: 50%;
+        /* Reduce the size of the men image on tablets */
+    }
+
+    .img_header {
+        width: 40%;
+        /* Reduce the size of the header image on tablets */
+    }
+
+
+    .itemsitems_featured {
+
+        color: #eb0505;
+        font-family: Lato;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+
+
+
+
 
 
 }
